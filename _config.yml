@@ -25,7 +25,7 @@ permalink: post/:title.html
 post_asset_folder: true
 
 # Site settings
-header_icon: ./img/headimage.jpeg
+header_icon: img/headimage.jpeg
 
 theme: hexo-theme-geektutu
 
