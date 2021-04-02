@@ -52,8 +52,8 @@ reward:
 related_links:
 - link: https://github.com/geektutu/hexo-theme-geektutu
   img: img/headimage.jpeg
-- link: https://github.com/geekcircle
-  img: img/headimage.jpeg
+- link: https://github.com/tialias
+  img: img/base_img/github_icon.png
 - link: mailto:Geektutu<gzdaijie@gmail.com>?subject=From Geektutu's Blog
   img: img/headimage.jpeg
 
