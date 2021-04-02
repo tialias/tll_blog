@@ -8,7 +8,7 @@ description: 测试开发、golang、python学习分享
 author: tll
 language: zh-CN
 
-url: https://geektutu.com
+url: https://tialias.vercel.app/
 root: /
 permalink: post/:title.html
 
@@ -31,17 +31,17 @@ theme: hexo-theme-geektutu
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repository: https://git.coding.net/gzdaijie/geektutu-blog.git
-  branch: coding-pages
+# deploy:
+#   type: git
+#   repository: https://git.coding.net/gzdaijie/geektutu-blog.git
+#   branch: coding-pages
 
-gitalk:
-  client_id: 'c1fdd456a4caae5f7df0'
-  client_secret: 'b2674451e21feae50520f99337ec15d2aebe7879'
-  accessToken: 'xxxx'
-  repo: 'hexo-theme-geektutu'
-  owner: 'geektutu'
+# gitalk:
+#   client_id: 'c1fdd456a4caae5f7df0'
+#   client_secret: 'b2674451e21feae50520f99337ec15d2aebe7879'
+#   accessToken: 'xxxx'
+#   repo: 'hexo-theme-geektutu'
+#   owner: 'geektutu'
 
 # alipay wechatpay 的二维码转换的网址，不使用二维码图片，提高加载速率。
 # https://cli.im/deqr 可将二维码转为网址
@@ -60,7 +60,7 @@ related_links:
 # 文章末尾配置一些提示信息，可选，不配置则不显示
 post_tips:
   find_me: true # 本站永久域名「 xx.domain 」， 也可以通过搜索「 xx 」找到我。
-  zhihu_zhuanlan: https://zhuanlan.zhihu.com/geektutu # 欢迎关注我的「 知乎专栏 」，所有文章可在「 知乎APP 」查看。
+  # zhihu_zhuanlan: https://zhuanlan.zhihu.com/geektutu # 欢迎关注我的「 知乎专栏 」，所有文章可在「 知乎APP 」查看。
 
 widgets:
   mobile_qrcode: false # 开启移动端二维码，扫一扫，手机上阅读
@@ -79,4 +79,4 @@ feed:
   type: rss2
   content: false
   path: feed.xml
-  icon: img/icon.png
+  icon: img/headimage.jpeg
