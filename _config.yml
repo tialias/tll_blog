@@ -54,8 +54,8 @@ related_links:
   img: img/base_img/email_icon.png
 - link: https://github.com/tialias
   img: img/base_img/github_icon.png
-- link: mailto:Geektutu<gzdaijie@gmail.com>?subject=From Geektutu's Blog
-  img: img/headimage.jpeg
+- link: https://twitter.com/
+  img: img/base_img/twitter.png
 
 # 文章末尾配置一些提示信息，可选，不配置则不显示
 post_tips:
