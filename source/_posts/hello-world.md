@@ -8,7 +8,7 @@ tags:
 - mnist
 - Python
 nav:
-- TensorFlow
+- 算法
 categories:
 - TensorFlow教程
 top: 1
