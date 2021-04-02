@@ -6,11 +6,10 @@ tags:
 - 算法
 - Python
 nav:
-- 每日一题
+- 文章翻译
 categories:
-- 算法
-top: 2
-
+- 文章翻译
+- 测试
 ## 翻译
 
 
