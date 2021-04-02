@@ -25,7 +25,7 @@ permalink: post/:title.html
 post_asset_folder: true
 
 # Site settings
-header_icon: img/headimage.jpeg
+header_icon: img/base_img/headimage.jpeg
 
 theme: hexo-theme-geektutu
 
@@ -50,8 +50,8 @@ reward:
   wechat: wxp://f2f0qgGBlfD1nZXjvBjievxB0z0fc0W2sBq5
 
 related_links:
-- link: https://github.com/geektutu/hexo-theme-geektutu
-  img: img/headimage.jpeg
+- link: vvtianll@gmail.com
+  img: img/base_img/email_icon.png
 - link: https://github.com/tialias
   img: img/base_img/github_icon.png
 - link: mailto:Geektutu<gzdaijie@gmail.com>?subject=From Geektutu's Blog
