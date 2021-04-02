@@ -45,22 +45,22 @@ theme: hexo-theme-geektutu
 
 # alipay wechatpay 的二维码转换的网址，不使用二维码图片，提高加载速率。
 # https://cli.im/deqr 可将二维码转为网址
-# reward:
-#   alipay: HTTPS://QR.ALIPAY.COM/FKX060337TUXBAX9LIFJE8
-#   wechat: wxp://f2f0qgGBlfD1nZXjvBjievxB0z0fc0W2sBq5
+reward:
+  alipay: HTTPS://QR.ALIPAY.COM/FKX060337TUXBAX9LIFJE8
+  wechat: wxp://f2f0qgGBlfD1nZXjvBjievxB0z0fc0W2sBq5
 
 related_links:
 - link: https://github.com/geektutu/hexo-theme-geektutu
-  img: img/related_links/github.png
+  img: img/headimage.jpeg
 - link: https://github.com/geekcircle
-  img: img/related_links/geekcircle.png
+  img: img/headimage.jpeg
 - link: mailto:Geektutu<gzdaijie@gmail.com>?subject=From Geektutu's Blog
-  img: img/related_links/email.png
+  img: img/headimage.jpeg
 
 # 文章末尾配置一些提示信息，可选，不配置则不显示
 post_tips:
   find_me: true # 本站永久域名「 xx.domain 」， 也可以通过搜索「 xx 」找到我。
-  # zhihu_zhuanlan: https://zhuanlan.zhihu.com/geektutu # 欢迎关注我的「 知乎专栏 」，所有文章可在「 知乎APP 」查看。
+  zhihu_zhuanlan: https://zhuanlan.zhihu.com/geektutu # 欢迎关注我的「 知乎专栏 」，所有文章可在「 知乎APP 」查看。
 
 widgets:
   mobile_qrcode: false # 开启移动端二维码，扫一扫，手机上阅读
